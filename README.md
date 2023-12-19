@@ -1,8 +1,9 @@
- flexmoney-assignment   
-                                        PROJECT TITLE-YOGA APPLICATION 
+   
+                                               PROJECT TITLE-YOGA APPLICATION 
 
                                                           
-Problem Statement:
+                                                    Problem Statement 
+                                                    
 Assume that you are the CTO of an outsourcing firm which has been chosen to build an
 admission form for the Yoga Classes which happen every month.
 Requirements for the admission form are:
@@ -15,7 +16,9 @@ every month and he can pay it any time of the month.
 participants can choose any batch in a month and can move to any other batch next
 month. I.e. participants can shift from one batch to another in different months but in the
 same month they need to be in the same batch
-Solution:
+
+                                                          Solution
+  
 The solution is a web-based admission form for Yoga Classes built using ReactJS, CSS, Bootstrap, and JavaScript, with data storage handled by Firebase Firestore. The platform, designed for both desktop and mobile views, is intended for an outsourcing firm's client. Key requirements include:
 
 Age Limit: Participants must be within the age range of 18 to 65 to enroll in monthly yoga classes.
@@ -33,7 +36,7 @@ Firebase Hosting: The solution is deployed and hosted using Firebase Hosting, en
 HOSTING LINL OF WEBSITE  https://flexmoney-assignment-gamma.vercel.app/     
 
 
-                           ER DIAGRAM    
+                                                      ER DIAGRAM    
 
            
 ![capture](https://github.com/Naina3005/flexmoney-assignment/assets/103365863/f0dc8ac2-807f-4dd1-9a8e-69ee23706e49)
@@ -44,18 +47,23 @@ How to run this app
 
 In the project directory, you can run:
 
-npm start
+npm start 
+
 Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+Open http://localhost:3000 to view it in your browser. 
+
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-npm test
+npm test  
+
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+npm run build  
+
+
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -64,11 +72,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.:https://create-react-app.dev/docs/deployment/    
 
-                                   ER DIAGRAM 
-
-   
-
-      ![capture](https://github.com/Naina3005/flexmoney-assignment/assets/103365863/e3a1cdcf-162f-4e7b-b95f-edd9c2fc9278)    
+                             
                   
 
 
