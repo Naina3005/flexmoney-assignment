@@ -1,5 +1,5 @@
-![capture](https://github.com/Naina3005/flexmoney-assignment/assets/103365863/e3a1cdcf-162f-4e7b-b95f-edd9c2fc9278)# flexmoney-assignment   
-                                                          PROJECT TITLE-YOGA APPLICATION 
+ flexmoney-assignment   
+                                        PROJECT TITLE-YOGA APPLICATION 
 
                                                           
 Problem Statement:
@@ -30,7 +30,15 @@ Responsive Design: The web application is designed to be responsive, providing a
 
 Firebase Hosting: The solution is deployed and hosted using Firebase Hosting, ensuring efficient and secure access for participants.    
 
-HOSTING LINL OF WEBSITE  https://flexmoney-assignment-gamma.vercel.app/   
+HOSTING LINL OF WEBSITE  https://flexmoney-assignment-gamma.vercel.app/     
+
+
+                           ER DIAGRAM    
+
+           
+
+
+
 
 How to run this app    
 
@@ -58,11 +66,9 @@ See the section about deployment for more information.:https://create-react-app.
 
                                    ER DIAGRAM 
 
-
-                                  ![capture](https://github.com/Naina3005/flexmoney-assignment/assets/103365863/db365668-8e8e-4647-ba3e-50c7c4854307)
    
 
-          
+      ![capture](https://github.com/Naina3005/flexmoney-assignment/assets/103365863/e3a1cdcf-162f-4e7b-b95f-edd9c2fc9278)    
                   
 
 
