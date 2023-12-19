@@ -36,7 +36,7 @@ HOSTING LINL OF WEBSITE  https://flexmoney-assignment-gamma.vercel.app/
                            ER DIAGRAM    
 
            
-
+![capture](https://github.com/Naina3005/flexmoney-assignment/assets/103365863/f0dc8ac2-807f-4dd1-9a8e-69ee23706e49)
 
 
 
